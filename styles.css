@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Gabarito';
+    text-align: center;
+}
+section {
+    font-family: 'Gabarito';
+    text-align: center;
+}
+p {
+    font-size: 12.5px;
+    font-family: 'Gabarito';
+}
+html {
+    background-color: slategray;
+    color: beige;
+}
+#a2 {
+    font-size: 20px;
+}
+.pxn {
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Gabarito';
+
+}
